@@ -1,0 +1,57 @@
+C:\Wikrama\Revisi antrian bank\obj\x86\Debug\BAP.exe
+C:\Wikrama\Revisi antrian bank\obj\x86\Debug\BAP.xml
+C:\Wikrama\Revisi antrian bank\obj\x86\Debug\BAP.pdb
+C:\Wikrama\Revisi antrian bank\bin\Debug\BAP.exe
+C:\Wikrama\Revisi antrian bank\bin\Debug\BAP.pdb
+C:\Wikrama\Revisi antrian bank\bin\Debug\BAP.xml
+C:\Wikrama\Revisi antrian bank\obj\x86\Debug\BAP.Form1.resources
+C:\Wikrama\Revisi antrian bank\obj\x86\Debug\BAP.Form2.resources
+C:\Wikrama\Revisi antrian bank\obj\x86\Debug\BAP.Form3.resources
+C:\Wikrama\Revisi antrian bank\obj\x86\Debug\BAP.Form4.resources
+C:\Wikrama\Revisi antrian bank\obj\x86\Debug\BAP.Form5.resources
+C:\Wikrama\Revisi antrian bank\obj\x86\Debug\BAP.Resources.resources
+C:\Wikrama\Revisi antrian bank\obj\x86\Debug\BAP.tiket1.resources
+C:\Wikrama\Revisi antrian bank\obj\x86\Debug\BAP.tiket2.resources
+C:\Wikrama\Revisi antrian bank\obj\x86\Debug\BAP.vbproj.GenerateResource.Cache
+F:\Devan\Revisi antrian bank\obj\x86\Debug\BAP.exe
+F:\Devan\Revisi antrian bank\obj\x86\Debug\BAP.xml
+F:\Devan\Revisi antrian bank\obj\x86\Debug\BAP.pdb
+F:\Devan\Revisi antrian bank\bin\Debug\BAP.exe
+F:\Devan\Revisi antrian bank\bin\Debug\BAP.pdb
+F:\Devan\Revisi antrian bank\bin\Debug\BAP.xml
+F:\Devan\Revisi antrian bank\obj\x86\Debug\BAP.Form1.resources
+F:\Devan\Revisi antrian bank\obj\x86\Debug\BAP.Form2.resources
+F:\Devan\Revisi antrian bank\obj\x86\Debug\BAP.Form3.resources
+F:\Devan\Revisi antrian bank\obj\x86\Debug\BAP.Form4.resources
+F:\Devan\Revisi antrian bank\obj\x86\Debug\BAP.Form5.resources
+F:\Devan\Revisi antrian bank\obj\x86\Debug\BAP.Resources.resources
+F:\Devan\Revisi antrian bank\obj\x86\Debug\BAP.tiket1.resources
+F:\Devan\Revisi antrian bank\obj\x86\Debug\BAP.tiket2.resources
+F:\Devan\Revisi antrian bank\obj\x86\Debug\BAP.vbproj.GenerateResource.Cache
+C:\Users\win10\Documents\kodingan saya\Revisi antrian bank\obj\x86\Debug\BAP.exe
+C:\Users\win10\Documents\kodingan saya\Revisi antrian bank\obj\x86\Debug\BAP.xml
+C:\Users\win10\Documents\kodingan saya\Revisi antrian bank\obj\x86\Debug\BAP.pdb
+C:\Users\win10\Documents\kodingan saya\Revisi antrian bank\bin\Debug\BAP.exe
+C:\Users\win10\Documents\kodingan saya\Revisi antrian bank\bin\Debug\BAP.pdb
+C:\Users\win10\Documents\kodingan saya\Revisi antrian bank\bin\Debug\BAP.xml
+C:\Users\win10\Documents\kodingan saya\Revisi antrian bank\obj\x86\Debug\BAP.Form1.resources
+C:\Users\win10\Documents\kodingan saya\Revisi antrian bank\obj\x86\Debug\BAP.Form2.resources
+C:\Users\win10\Documents\kodingan saya\Revisi antrian bank\obj\x86\Debug\BAP.Form3.resources
+C:\Users\win10\Documents\kodingan saya\Revisi antrian bank\obj\x86\Debug\BAP.Form4.resources
+C:\Users\win10\Documents\kodingan saya\Revisi antrian bank\obj\x86\Debug\BAP.Form5.resources
+C:\Users\win10\Documents\kodingan saya\Revisi antrian bank\obj\x86\Debug\BAP.Resources.resources
+C:\Users\win10\Documents\kodingan saya\Revisi antrian bank\obj\x86\Debug\BAP.tiket1.resources
+C:\Users\win10\Documents\kodingan saya\Revisi antrian bank\obj\x86\Debug\BAP.tiket2.resources
+C:\Users\win10\Documents\kodingan saya\Revisi antrian bank\obj\x86\Debug\BAP.vbproj.GenerateResource.Cache
+C:\Users\Dhani\Documents\kodingan_saya\Visual Basic(VB)\Antrian bank dengan database\obj\x86\Debug\BAP.exe
+C:\Users\Dhani\Documents\kodingan_saya\Visual Basic(VB)\Antrian bank dengan database\obj\x86\Debug\BAP.xml
+C:\Users\Dhani\Documents\kodingan_saya\Visual Basic(VB)\Antrian bank dengan database\obj\x86\Debug\BAP.pdb
+C:\Users\Dhani\Documents\kodingan_saya\Visual Basic(VB)\Antrian bank dengan database\obj\x86\Debug\BAP.Form1.resources
+C:\Users\Dhani\Documents\kodingan_saya\Visual Basic(VB)\Antrian bank dengan database\obj\x86\Debug\BAP.Form2.resources
+C:\Users\Dhani\Documents\kodingan_saya\Visual Basic(VB)\Antrian bank dengan database\obj\x86\Debug\BAP.Form3.resources
+C:\Users\Dhani\Documents\kodingan_saya\Visual Basic(VB)\Antrian bank dengan database\obj\x86\Debug\BAP.Form4.resources
+C:\Users\Dhani\Documents\kodingan_saya\Visual Basic(VB)\Antrian bank dengan database\obj\x86\Debug\BAP.Form5.resources
+C:\Users\Dhani\Documents\kodingan_saya\Visual Basic(VB)\Antrian bank dengan database\obj\x86\Debug\BAP.Resources.resources
+C:\Users\Dhani\Documents\kodingan_saya\Visual Basic(VB)\Antrian bank dengan database\obj\x86\Debug\BAP.tiket1.resources
+C:\Users\Dhani\Documents\kodingan_saya\Visual Basic(VB)\Antrian bank dengan database\obj\x86\Debug\BAP.tiket2.resources
+C:\Users\Dhani\Documents\kodingan_saya\Visual Basic(VB)\Antrian bank dengan database\obj\x86\Debug\BAP.vbproj.GenerateResource.Cache
